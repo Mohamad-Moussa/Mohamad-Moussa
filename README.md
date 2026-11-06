@@ -1,6 +1,6 @@
 # Hi, I'm Mohamad Moussa 👋
 
-**Electrical Engineer (KFUPM, First Honors) · Business Intelligence & Data Analytics**
+**Electrical Engineer (KFUPM, First Honors) · Business Intelligence & Data Analytics**<br>
 📍 Dammam, Saudi Arabia · Open to opportunities in the GCC and Europe
 
 I build data-driven solutions that turn raw data into business decisions, from Power BI dashboards for sales and customer retention to power-system studies and ML-based forecasting.
